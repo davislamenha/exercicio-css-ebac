@@ -3,12 +3,21 @@
   margin: 0;
   padding: 0;
  }
-h1, h2 {
-  color: green;
+header li {
+  display: inline;
 }
-#economy h2 {
-  color: gold;
+.container {
+  width: 1366px;
+  margin-inline: auto;
 }
-.creation-date {
-  color: #ccc;
+.articles {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.articles article img {
+  height: 180px;
+}
+.articles article {
+  width: 30%;
 }
