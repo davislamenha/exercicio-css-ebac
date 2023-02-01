@@ -79,3 +79,15 @@ background-color: rgba(0, 255, 0, 0.1);
 #economy .articles article a {
   background-color: #ff9f1a;
 }
+#entertainment {
+  background-color: #ffd6ff;
+}
+#entertainment .articles article a {
+  background-color: #673365;
+}
+#business {
+  background-color: #cadffb;
+}
+#business .articles article a {
+  background-color: #3e5f8a;
+}
