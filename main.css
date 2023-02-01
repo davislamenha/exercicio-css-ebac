@@ -85,3 +85,9 @@ background-color: rgba(0, 255, 0, 0.1);
 #entertainment .articles article a {
   background-color: #673365;
 }
+#business {
+  background-color: #cadffb;
+}
+#business .articles article a {
+  background-color: #3e5f8a;
+}
