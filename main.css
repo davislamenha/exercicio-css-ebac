@@ -79,3 +79,9 @@ background-color: rgba(0, 255, 0, 0.1);
 #economy .articles article a {
   background-color: #ff9f1a;
 }
+#entertainment {
+  background-color: #ffd6ff;
+}
+#entertainment .articles article a {
+  background-color: #673365;
+}
